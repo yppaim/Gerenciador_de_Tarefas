@@ -55,18 +55,6 @@ gerenciador-tarefas/
 ├── LICENSE
 └── README.md
 ```
-
-## Próximas melhorias
-
-Algumas ideias para evoluir o projeto:
-
-- Salvar tarefas em JSON
-- Adicionar prioridade
-- Adicionar prazo
-- Criar uma interface web com Flask
-- Criar uma API REST
-- Adicionar persistência em SQLite
-
 ## Licença
 
-Este projeto está sob a licença MIT.
+MIT.
